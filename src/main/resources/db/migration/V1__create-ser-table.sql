@@ -1,3 +1,4 @@
+--Criação da tabela "user" (user entre aspas duplas, pois é uma palavra reservada do PostgreSQL)
 CREATE TABLE IF NOT EXISTS "user" (
     user_id BIGSERIAL PRIMARY KEY,
     username VARCHAR(100) NOT NULL UNIQUE,
