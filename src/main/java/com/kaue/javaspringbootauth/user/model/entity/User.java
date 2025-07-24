@@ -1,7 +1,16 @@
+/**
+ * User.java
+ * @author Kauê Gomes
+ */
+
 package com.kaue.javaspringbootauth.user.model.entity;
 
 import jakarta.persistence.*;
 
+/**
+ * Representa um usuário no sistema.
+ * A classe User é uma entidade JPA que mapeia a tabela "user" no banco de dados.
+ */
 @Entity
 @Table(name = "user")
 public class User {
