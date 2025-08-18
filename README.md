@@ -63,4 +63,4 @@ Este projeto é um estudo prático que visa adaptar e aprofundar minhas habilida
     ```
 
 4.  **Acesse a documentação da API:**
-    Após iniciar a aplicação, acesse a interface do Swagger no seu navegador para interagir com a API.
+    Após iniciar a aplicação, acesse a interface do Swagger no seu navegador para interagir com a API..
